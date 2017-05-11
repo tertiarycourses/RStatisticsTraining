@@ -1,5 +1,5 @@
 # R Statistics Essential Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [R Statistics Essential Training](https://www.tertiarycourses.com.sg/r-statistics-essential-training-in-singapore.html) course. 
 
