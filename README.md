@@ -6,6 +6,7 @@ These are the exercise files used for [R Statistics Essential Training](https://
 The course outline can be found in 
 
 https://www.tertiarycourses.com.sg/r-statistics-essential-training-in-singapore.html
+https://www.tertiarycourses.com.my/r-statistics-essential-training-in-malaysia.html
 
 <p><strong>Module 1. Getting Started</strong></p>
 <ul>
